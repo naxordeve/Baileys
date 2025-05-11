@@ -1,6 +1,6 @@
 {
   "name": "baileys",
-  "version": "0.0.1",
+  "version": "4.0.0",
   "description": "WhatsApp API",
   "keywords": [
     "Baileys",
@@ -15,12 +15,12 @@
     "whatsapp-group",
     "multi-device"
   ],
-  "homepage": "https://github.com/ArabsDev/Baileys",
+  "homepage": "https://github.com/naxordeve/Baileys",
   "repository": {
-    "url": "git@github.com:ArabsDev/Baileys.git"
+    "url": "git@github.com:naxordeve/Baileys.git"
   },
   "license": "MIT",
-  "author": "ArabDevs",
+  "author": "naxor",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -111,6 +111,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/ArabsDev/Baileys/issues"
+    "url": "https://github.com/naxordeve/Baileys/issues"
   }
 }
