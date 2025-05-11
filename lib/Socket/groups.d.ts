@@ -27,7 +27,7 @@ export declare const makeGroupsSocket: (config: SocketConfig) => {
     /**
      * accept a GroupInviteMessage
      * @param key the key of the invite message, or optionally only provide the jid of the person who sent the invite
-     * @param inviteMessage the message to accept
+     * @param inviteMessage the message to accept.
      */
     groupAcceptInviteV4: (key: string | proto.IMessageKey, inviteMessage: proto.Message.IGroupInviteMessage) => Promise<string>;
     groupGetInviteInfo: (code: string) => Promise<GroupMetadata>;
